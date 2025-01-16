@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Tessst",
+  "applicationTitle": "Tessst",
+  "items": [
+    {
+      "link": null,
+      "menuName": "tessst",
+      "caption": "Tessst",
+      "title": "Tessst",
+      "children": [
+        {
+          "link": "i-i-s-tessst-new-class1-l",
+          "menuName": null,
+          "caption": "New class1",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-tessst-new-class2-l",
+          "menuName": null,
+          "caption": "New class2",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
